@@ -14,7 +14,7 @@ import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class ShiroBouncyIntegration {
+public class ShiroBouncyIntegrationTest {
 
   @BeforeClass
   public static void setUp() {

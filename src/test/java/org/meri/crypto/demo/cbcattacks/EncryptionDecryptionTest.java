@@ -13,7 +13,7 @@ import org.apache.shiro.util.ByteSource;
 import org.junit.Test;
 import org.meri.crypto.demo.util.StringCipher;
 
-public class EncryptionDecryptionDemo {
+public class EncryptionDecryptionTest {
 
   @Test
   public void encryptStringMessage_AES() {

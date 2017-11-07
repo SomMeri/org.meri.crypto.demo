@@ -13,7 +13,7 @@ import org.junit.Test;
 import org.meri.crypto.demo.cbcattacks.PaddingOraculum;
 import org.meri.crypto.demo.util.StringCipher;
 
-public class AttacksDemo {
+public class AttacksTest {
 
   @BeforeClass
   public static void setUp() {
